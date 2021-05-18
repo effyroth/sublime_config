@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+."], "command": "sql_beautifier" }
+
+]
